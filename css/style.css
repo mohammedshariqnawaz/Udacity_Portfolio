@@ -1,0 +1,38 @@
+@media only screen and (max-width: 800px) {
+    img {
+    display: block;
+    margin: 0 auto;
+  }
+    .text-centered{
+      text-align: center;
+    }
+}
+
+body{
+  font-family: 'Lato', sans-serif;
+  color: #2d3c49;
+  font-weight: 300;
+
+}
+h3{
+  font-size: 32px;
+}
+hr{
+  border-top-width: 5px;
+  color:black;
+}
+.text-bump{
+  font-size: 40px;
+}
+.super-size{
+  font-size: 50px;
+}
+.text-thin{
+  font-weight: 100;
+}
+.pt-10{
+  padding-top: 10px;
+}
+.pt-20{
+  padding-top: 20px;
+}
